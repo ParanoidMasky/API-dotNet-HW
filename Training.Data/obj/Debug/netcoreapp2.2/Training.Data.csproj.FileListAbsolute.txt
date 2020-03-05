@@ -1,0 +1,15 @@
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.Data.deps.json
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.Data.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.Data.pdb
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.API.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.DTO.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.Exceptions.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.API.pdb
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.DTO.pdb
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\bin\Debug\netcoreapp2.2\Training.Exceptions.pdb
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\obj\Debug\netcoreapp2.2\Training.Data.csprojAssemblyReference.cache
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\obj\Debug\netcoreapp2.2\Training.Data.AssemblyInfoInputs.cache
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\obj\Debug\netcoreapp2.2\Training.Data.AssemblyInfo.cs
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\obj\Debug\netcoreapp2.2\Training.Data.csproj.CopyComplete
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\obj\Debug\netcoreapp2.2\Training.Data.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Data\obj\Debug\netcoreapp2.2\Training.Data.pdb

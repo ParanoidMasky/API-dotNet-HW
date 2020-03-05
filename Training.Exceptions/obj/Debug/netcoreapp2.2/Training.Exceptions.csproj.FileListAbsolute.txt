@@ -1,0 +1,8 @@
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\bin\Debug\netcoreapp2.2\Training.Exceptions.deps.json
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\bin\Debug\netcoreapp2.2\Training.Exceptions.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\bin\Debug\netcoreapp2.2\Training.Exceptions.pdb
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\obj\Debug\netcoreapp2.2\Training.Exceptions.csprojAssemblyReference.cache
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\obj\Debug\netcoreapp2.2\Training.Exceptions.AssemblyInfoInputs.cache
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\obj\Debug\netcoreapp2.2\Training.Exceptions.AssemblyInfo.cs
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\obj\Debug\netcoreapp2.2\Training.Exceptions.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.Exceptions\obj\Debug\netcoreapp2.2\Training.Exceptions.pdb

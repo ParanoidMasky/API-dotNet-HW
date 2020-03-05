@@ -1,0 +1,8 @@
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\bin\Debug\netcoreapp2.2\Training.DTO.deps.json
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\bin\Debug\netcoreapp2.2\Training.DTO.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\bin\Debug\netcoreapp2.2\Training.DTO.pdb
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\obj\Debug\netcoreapp2.2\Training.DTO.csprojAssemblyReference.cache
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\obj\Debug\netcoreapp2.2\Training.DTO.AssemblyInfoInputs.cache
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\obj\Debug\netcoreapp2.2\Training.DTO.AssemblyInfo.cs
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\obj\Debug\netcoreapp2.2\Training.DTO.dll
+C:\Users\jmreyes\Downloads\dotNet-HW-done\Training.DTO\obj\Debug\netcoreapp2.2\Training.DTO.pdb
